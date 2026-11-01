@@ -1,0 +1,29 @@
+﻿# Build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+secrets.json

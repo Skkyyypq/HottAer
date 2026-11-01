@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HottAer.Contracts/HottAer.Contracts.csproj" />
+    <Project Path="src/HottAer.Core/HottAer.Core.csproj" />
+    <Project Path="src/HottAer.Domain/HottAer.Domain.csproj" />
+    <Project Path="src/HottAer.Infrastructure/HottAer.Infrastructure.csproj" />
+    <Project Path="src/HottAer.Protocol.AirDrop/HottAer.Protocol.AirDrop.csproj" />
+    <Project Path="src/HottAer.Transport.AWDL/HottAer.Transport.AWDL.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HottAer.IntegrationTests/HottAer.IntegrationTests.csproj" />
+    <Project Path="tests/HottAer.ProtocolTests/HottAer.ProtocolTests.csproj" />
+    <Project Path="tests/HottAer.UnitTests/HottAer.UnitTests.csproj" />
+  </Folder>
+</Solution>
